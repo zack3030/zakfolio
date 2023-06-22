@@ -1,0 +1,53 @@
+.footer{
+    font-size: var(--size-xs);
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 0.2em;
+    font-weight: 300;
+
+}
+
+@media(min-width: 475px){
+    .footer{
+        font-size: var(--size-sm);
+        
+        
+    
+    }
+}
+
+/* sm*/
+@media(min-width: 640px){
+    .footer{
+        font-size: var(--size-base);
+        
+        
+    
+    }
+}
+
+/* md */
+@media(min-width: 768px){}
+
+/* lg */
+@media(min-width: 1024px){
+    .footer{
+        font-size: var(--size-lg);
+        
+        
+    
+    }
+}
+
+/*xl */
+@media(min-width: 1280px){
+    .footer{
+        font-size: var(--size-xl);
+        
+        
+    
+    }
+}
+
+/* xl */
+@media(min-width: 1536px){}
