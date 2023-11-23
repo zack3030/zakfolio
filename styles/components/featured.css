@@ -49,6 +49,7 @@
 .featured__info{
     text-transform: capitalize;
     font-size: var(--size-sm);
+    margin-bottom: .5rem;
 }
 
 .featured__info-container{
